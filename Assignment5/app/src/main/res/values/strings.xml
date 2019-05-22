@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment5</string>
+    <string name="available_diaries">Available Diaries</string>
+    <string name="title_activity_note_map">Map</string>
+    <string name="new_note">New Note</string>
+    <string name="view_map_of_notes">View Map of Notes</string>
+    <string name="title">Title</string>
+    <string name="entry">Entry</string>
+    <string name="save">Save</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="localization_method">Localization Method</string>
+
+</resources>

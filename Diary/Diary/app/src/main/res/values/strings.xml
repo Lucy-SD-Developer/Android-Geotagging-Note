@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="available_diaries">Available Diaries</string>
+    <string name="instruction_create">Please create a new password.</string>
+    <string name="instruction_login">Pleas enter the password to log in.</string>
+</resources>
